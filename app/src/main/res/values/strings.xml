@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson_four_exercise_one</string>
+    <string name="tvNewGame">New Game</string>
+    <string name="tvContinue">Continue</string>
+    <string name="tvOptions">Options</string>
+    <string name="tvAbout">About</string>
+</resources>
